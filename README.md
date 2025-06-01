@@ -1,4 +1,4 @@
 # firstgitrepo
 this is my first repo
 <br>
-for learning purpose 
+for learning purpose (git and github)
